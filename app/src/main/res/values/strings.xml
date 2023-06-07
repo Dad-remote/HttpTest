@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HttpTest</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="http_service">HttpServer</string>
+    <string name="server_is_running">Server is running</string>
+</resources>
